@@ -1,5 +1,5 @@
-# AnomalyDetectionInNetworkTraffic
-Anomaly Detection in Network Traffic with K-means Clustering
+# Anomaly Detection In Network Traffic
+##With K-means Clustering
 
 A project for self-learning and getting a better understanding of Apache Spark.
 The goal of this project is to learn how to detect anomaly in Network Traffic using Clustering 
